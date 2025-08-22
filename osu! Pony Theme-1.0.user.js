@@ -14,12 +14,12 @@
     function applyStyles() {
         const css = `
                 body[data-page="home"] .osu-layout__section {
-                    background-image: url("https://github.com/9IZUKI9/Images/blob/main/Pony%20theme/background__home.png?raw=true");
+                    background-image: url("https://github.com/9IZUKI9/My-Little-Osu/blob/main/Osu!%20Web%20Pony/Assets/background__home.png?raw=true");
                     background-size: 100%;
                 }
 
                 body[data-page="home"] .osu-layout__section::before {
-                    background-image: url("https://github.com/9IZUKI9/Images/blob/main/Pony%20theme/pony__home.png?raw=true");
+                    background-image: url("https://github.com/9IZUKI9/My-Little-Osu/blob/main/Osu!%20Web%20Pony/Assets/pony__home.png?raw=true");
                     background-size: 100%;
                     background-position-y: 345%;
                     background-repeat: no-repeat;
@@ -33,12 +33,12 @@
                 }
 
                 body[data-page="beatmapsets"] .osu-layout__section {
-                    background-image: url("https://github.com/9IZUKI9/Images/blob/main/Pony%20theme/background__beatmaps.png?raw=true");
+                    background-image: url("https://github.com/9IZUKI9/My-Little-Osu/blob/main/Osu!%20Web%20Pony/Assets/background__beatmaps.png?raw=true");
                     background-size: 100%;
                 }
 
                 body[data-page="beatmapsets"] .osu-layout__section::before {
-                    background-image: url("https://github.com/9IZUKI9/Images/blob/main/Pony%20theme/pony__beatmaps.png?raw=true");
+                    background-image: url("https://github.com/9IZUKI9/My-Little-Osu/blob/main/Osu!%20Web%20Pony/Assets/pony__beatmaps.png?raw=true");
                     background-size: 100%;
                     background-position-y: 31%;
                     background-repeat: no-repeat;
@@ -51,12 +51,12 @@
                 }
 
                 body[data-page="rankings"] .osu-layout__section {
-                    background-image: url("https://github.com/9IZUKI9/Images/blob/main/Pony%20theme/background__rankings.png?raw=true");
+                    background-image: url("https://github.com/9IZUKI9/My-Little-Osu/blob/main/Osu!%20Web%20Pony/Assets/background__rankings.png?raw=true");
                     background-size: 100%;
                 }
 
                 body[data-page="rankings"] .osu-layout__section::before {
-                    background-image: url("https://github.com/9IZUKI9/Images/blob/main/Pony%20theme/pony__rankings.png?raw=true");
+                    background-image: url("https://github.com/9IZUKI9/My-Little-Osu/blob/main/Osu!%20Web%20Pony/Assets/pony__rankings.png?raw=true");
                     background-size: 100%;
                     background-position-y: 31%;
                     background-position-x: -20px;
@@ -70,13 +70,13 @@
                 }
 
                 body[data-page="forums"] .osu-layout__section {
-                    background-image: url("https://github.com/9IZUKI9/Images/blob/main/Pony%20theme/background__forums.png?raw=true");
+                    background-image: url("https://github.com/9IZUKI9/My-Little-Osu/blob/main/Osu!%20Web%20Pony/Assets/background__forums.png?raw=true");
                     background-size: 100%;
                     padding-bottom: 15px;
                 }
 
                 body[data-page="forums"] .osu-layout__section::before {
-                    background-image: url("https://github.com/9IZUKI9/Images/blob/main/Pony%20theme/pony__forums.png?raw=true");
+                    background-image: url("https://github.com/9IZUKI9/My-Little-Osu/blob/main/Osu!%20Web%20Pony/Assets/pony__forums.png?raw=true");
                     background-size: 100%;
                     background-position-y: 31%;
                     background-position-x: -20px;
@@ -90,13 +90,13 @@
                 }
 
                 body[data-page="store"] .osu-layout__section {
-                    background-image: url("https://github.com/9IZUKI9/Images/blob/main/Pony%20theme/background__wiki.png?raw=true");
+                    background-image: url("https://github.com/9IZUKI9/My-Little-Osu/blob/main/Osu!%20Web%20Pony/Assets/background__store.png?raw=true");
                     background-size: 100%;
                     padding-bottom: 15px;
                 }
 
                 body[data-page="store"] .osu-layout__section::before {
-                    background-image: url("https://github.com/9IZUKI9/Images/blob/main/Pony%20theme/pony__store.png?raw=true");
+                    background-image: url("https://github.com/9IZUKI9/My-Little-Osu/blob/main/Osu!%20Web%20Pony/Assets/pony__store.png?raw=true");
                     background-size: 100%;
                     background-position-y: 105%;
                     background-position-x: -20px;
@@ -110,13 +110,13 @@
                 }
 
                 body[data-page="wiki"] .osu-layout__section {
-                    background-image: url("https://github.com/9IZUKI9/Images/blob/main/Pony%20theme/background__wiki.png?raw=true");
+                    background-image: url("https://github.com/9IZUKI9/My-Little-Osu/blob/main/Osu!%20Web%20Pony/Assets/background__wiki.png?raw=true");
                     background-size: 100%;
                     padding-bottom: 15px;
                 }
 
                 body[data-page="wiki"] .osu-layout__section::before {
-                    background-image: url("https://github.com/9IZUKI9/Images/blob/main/Pony%20theme/pony__wiki.png?raw=true");
+                    background-image: url("https://github.com/9IZUKI9/My-Little-Osu/blob/main/Osu!%20Web%20Pony/Assets/pony__wiki.png?raw=true");
                     background-size: 100%;
                     background-position-y: 150%;
                     background-position-x: -20px;
@@ -130,14 +130,14 @@
                 }
 
                 body[data-page="users"] .osu-layout__section {
-                    background-image: url("https://github.com/9IZUKI9/Images/blob/main/Pony%20theme/background__pattern.png?raw=true");
+                    background-image: url("https://github.com/9IZUKI9/My-Little-Osu/blob/main/Osu!%20Web%20Pony/Assets/background__pattern.png?raw=true");
                     background-size: 100%;
                     padding-bottom: 15px;
 
                 }
 
                 body[data-page="users"] .osu-layout__section::before {
-                    background-image: url("https://github.com/9IZUKI9/Images/blob/main/Pony%20theme/pony__profile.png?raw=true");
+                    background-image: url("https://github.com/9IZUKI9/My-Little-Osu/blob/main/Osu!%20Web%20Pony/Assets/pony__profile.png?raw=true");
                     background-size: 100%;
                     background-position-y: 150%;
                     background-position-x: -20px;
@@ -195,7 +195,7 @@
                     margin-bottom: 20px;
                 }
                 .js-forum-topic-reply--container::before {
-                    background-image: url(https://github.com/9IZUKI9/Images/blob/main/Pony%20theme/pony__forums-reply.png?raw=true);
+                    background-image: url("https://github.com/9IZUKI9/My-Little-Osu/blob/main/Osu!%20Web%20Pony/Assets/pony__forums-reply.png?raw=true");
                     background-size: 50%;
                     background-position-y: 11%;
                     background-position-x: 100px;
